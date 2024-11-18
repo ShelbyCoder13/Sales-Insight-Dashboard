@@ -1,7 +1,9 @@
 # Sales-Insight-Dashboard
 Interactive Sales Insight Dashboard created using Power BI
 
-Downloaded data and imported it into SQL. 
+Run the SQL dump file and import your data!! 
+
+Imported data to SQL Server.
 Run many SQL commands and understood the realation between the tables and columns.
 
 Imported the data to Power BI and did data cleaning and analysis on Power Query. Created new columns like "Porfit". 
